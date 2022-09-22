@@ -17,7 +17,7 @@ def calculator(a, b, c):
         result = int(a) * int(c)
     print(result)
 
-
+'''
 cal_on = True
 
 while cal_on:
@@ -27,7 +27,7 @@ while cal_on:
 
     calculator(first_num, option, sec_num)
 
-'''
+
 def greetings(name, age):
     print(f"Welcome {name}, You are {age} years old.")
 
